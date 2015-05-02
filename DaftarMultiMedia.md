@@ -1,0 +1,139 @@
+# Alkitab #
+  * https://archive.org/details/IndonesianBibles
+  * ebooks: https://archive.org/details/BibleTranslations
+
+# eBooks #
+  * http://www.wayoflife.org/free_ebooks/index1.php
+  * http://buktidansaksi.com/resources?c=books_free_download
+
+# Playlist Streaming #
+## Audio ##
+
+  * https://archive.org/download/MimbarGraphe/MimbarGraphe_vbr.m3u
+  * https://archive.org/download/Graphe2011/Graphe2011_vbr.m3u
+  * https://archive.org/download/Graphe2010/Graphe2010_vbr.m3u
+  * https://archive.org/download/Khotbah2013/Khotbah2013_vbr.m3u
+  * https://alkitabiah.googlecode.com/svn/trunk/playlist/
+
+## Videos ##
+  * http://vimeo.com/couchmode/surga/videos/sort:alphabetical
+  * http://vimeo.com/surga/videos
+  * https://www.youtube.com/user/alkitabsungguhbenar
+
+
+# Daftar Multimedia yg bisa di download #
+## Audios ##
+  * https://archive.org/search.php?query=pembahasan%20alkitab
+
+## Videos ##
+  * https://archive.org/download/Soteriologi/Soteriologi_archive.torrent
+  * http://archive.org/download/ApakahCalvinismeAlkitabiah/ApakahCalvinismeAlkitabiah_archive.torrent
+
+## ebooks ##
+  * http://code.google.com/p/alkitabiah/downloads/list
+
+### readers ###
+  * http://fbreader.org
+  * http://coolreader.org/e-index.htm
+
+## Kotbah ##
+torrent
+  * https://archive.org/download/MimbarGraphe/MimbarGraphe_archive.torrent
+  * https://archive.org/download/Graphe2010/Graphe2010_archive.torrent
+  * https://archive.org/download/Graphe2011/Graphe2011_archive.torrent
+  * https://archive.org/download/Khotbah2013/Khotbah2013_archive.torrent
+
+zipped mp3
+  * https://archive.org/download/MimbarGraphe/MimbarGraphe_vbr_mp3.zip
+  * https://archive.org/download/Graphe2011/Graphe2011_vbr_mp3.zip
+  * https://archive.org/download/Graphe2010/Graphe2010_vbr_mp3.zip
+  * https://archive.org/download/Khotbah2013/Khotbah2013_vbr_mp3.zip
+
+
+## Alkitab ##
+  * https://code.google.com/p/alkitabiah/downloads/list
+  * https://archive.org/download/IndonesianBibles/IndonesianBibles_archive.torrent
+  * https://archive.org/download/BibleTranslations/BibleTranslations_archive.torrent
+
+## Pedang Roh ##
+  * http://graphe-ministry.org/bahasa/pedang_roh.html
+  * http://archive.org/download/PedangRoh/PedangRoh_archive.torrent
+
+## Artikels ##
+  * http://graphe-ministry.org/bahasa/artikel_gratis.html
+  * https://archive.org/download/ArtikelAlkitabiah/ArtikelAlkitabiah_archive.torrent
+
+
+
+
+## Alkitab Audio ##
+
+### zipped mp3 ###
+
+  * http://archive.org/download/AlkitabAudioMazmur/AlkitabAudioMazmur_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudioAmsal/AlkitabAudioAmsal_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudioPengkotbah_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudioInjilMatius/AlkitabAudioInjilMatius_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudioInjilMarkus/AlkitabAudioInjilMarkus_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudioInjilLukas/AlkitabAudioInjilLukas_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudioInjilYohanes/AlkitabAudioInjilYohanes_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudioKisahParaRasul/AlkitabAudioKisahParaRasul_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudioRoma/AlkitabAudioRoma_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudio1Korintus_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudio2Korintus/AlkitabAudio2Korintus_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudioGalatia/AlkitabAudioGalatia_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudioEfesus/AlkitabAudioEfesus_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudioFilipi/AlkitabAudioFilipi_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudioKolose/AlkitabAudioKolose_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudio1Tesalonika/AlkitabAudio1Tesalonika_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudio2Tesalonika/AlkitabAudio2Tesalonika_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudio1Timotius/AlkitabAudio1Timotius_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudio2Timotius/AlkitabAudio2Timotius_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudioTitus/AlkitabAudioTitus_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudioFilemon/AlkitabAudioFilemon_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudioIbrani/AlkitabAudioIbrani_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudioYakobus/AlkitabAudioYakobus_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudio1Petrus/AlkitabAudio1Petrus_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudio2Petrus/AlkitabAudio2Petrus_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudio1Yohanes/AlkitabAudio1Yohanes_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudio2Yohanes/AlkitabAudio2Yohanes_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudio3Yohanes/AlkitabAudio3Yohanes_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudioYudas/AlkitabAudioYudas_vbr_mp3.zip
+  * http://archive.org/download/AlkitabAudioWahyu/AlkitabAudioWahyu_vbr_mp3.zip
+
+
+### torrent ###
+
+  * http://archive.org/download/AlkitabAudioMazmur/AlkitabAudioMazmur_archive.torrent
+  * http://archive.org/download/AlkitabAudioAmsal/AlkitabAudioAmsal_archive.torrent
+  * http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudioPengkotbah_archive.torrent
+  * http://archive.org/download/AlkitabAudioInjilMatius/AlkitabAudioInjilMatius_archive.torrent
+  * http://archive.org/download/AlkitabAudioInjilMarkus/AlkitabAudioInjilMarkus_archive.torrent
+  * http://archive.org/download/AlkitabAudioInjilLukas/AlkitabAudioInjilLukas_archive.torrent
+  * http://archive.org/download/AlkitabAudioInjilYohanes/AlkitabAudioInjilYohanes_archive.torrent
+  * http://archive.org/download/AlkitabAudioKisahParaRasul/AlkitabAudioKisahParaRasul_archive.torrent
+  * http://archive.org/download/AlkitabAudioRoma/AlkitabAudioRoma_archive.torrent
+  * http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudio1Korintus_archive.torrent
+  * http://archive.org/download/AlkitabAudio2Korintus/AlkitabAudio2Korintus_archive.torrent
+  * http://archive.org/download/AlkitabAudioGalatia/AlkitabAudioGalatia_archive.torrent
+  * http://archive.org/download/AlkitabAudioEfesusAlkitabAudioEfesus_archive.torrent
+  * http://archive.org/download/AlkitabAudioFilipi/AlkitabAudioFilipi_archive.torrent
+  * http://archive.org/download/AlkitabAudioKolose/AlkitabAudioKolose_archive.torrent
+  * http://archive.org/download/AlkitabAudio1Tesalonika/AlkitabAudio1Tesalonika_archive.torrent
+  * http://archive.org/download/AlkitabAudio2Tesalonika/AlkitabAudio2Tesalonika_archive.torrent
+  * http://archive.org/download/AlkitabAudio1Timotius/AlkitabAudio1Timotius_archive.torrent
+  * http://archive.org/download/AlkitabAudio2Timotius/AlkitabAudio2Timotius_archive.torrent
+  * http://archive.org/download/AlkitabAudioTitus/AlkitabAudioTitus_archive.torrent
+  * http://archive.org/download/AlkitabAudioFilemon/AlkitabAudioFilemon_archive.torrent
+  * http://archive.org/download/AlkitabAudioIbrani/AlkitabAudioIbrani_archive.torrent
+  * http://archive.org/download/AlkitabAudioYakobus/AlkitabAudioYakobus_archive.torrent
+  * http://archive.org/download/AlkitabAudio1Petrus/AlkitabAudio1Petrus_archive.torrent
+  * http://archive.org/download/AlkitabAudio2Petrus/AlkitabAudio2Petrus_archive.torrent
+  * http://archive.org/download/AlkitabAudio1Yohanes/AlkitabAudio1Yohanes_archive.torrent
+  * http://archive.org/download/AlkitabAudio2Yohanes/AlkitabAudio2Yohanes_archive.torrent
+  * http://archive.org/download/AlkitabAudio3Yohanes/AlkitabAudio3Yohanes_archive.torrent
+  * http://archive.org/download/AlkitabAudioYudasAlkitabAudioYudas_archive.torrent
+  * http://archive.org/download/AlkitabAudioWahyu/AlkitabAudioWahyu_archive.torrent
+
+# mirror #
+  * https://www.diigo.com/user/limdny/alkitabiah.org

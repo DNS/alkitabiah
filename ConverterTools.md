@@ -1,0 +1,27 @@
+Bible Study Tools
+  * http://crosswire.org/applications.jsp
+  * http://bibleanalyzer.com
+  * http://theword.net
+
+
+Ebook Reader:
+  * http://fbreader.org
+
+Bible Converter
+  * http://www.churchsw.org/simple-bible-reader-project
+  * http://palmbibleplus.sourceforge.net/createbible.htm
+  * http://www.theword.net/index.php?article.tools&l=english
+  * http://bibledatabase.org/addon/html_compiler.html
+  * http://ebible.org/WordSend/
+
+
+Tools
+  * http://www.authenticwalk.com/freescripts/
+
+Doc Converter
+  * http://johnmacfarlane.net/pandoc/
+
+
+Format
+  * http://www.crosswire.org/wiki/File_Formats
+  * http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown
